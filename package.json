@@ -1,0 +1,13 @@
+{
+  "name": "Opinionated-Frontend-Boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-requirejs": "~0.4.0",
+    "connect": "~2.7.2",
+    "bower": "~0.7.1",
+    "grunt-contrib-handlebars": "~0.5.4",
+    "requirejs": "~2.1.4"
+  }
+}
